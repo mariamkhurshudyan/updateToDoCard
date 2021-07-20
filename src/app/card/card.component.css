@@ -1,7 +1,9 @@
 .button {
     background-color: #4CAF50; /* Green */
     border: none;
-    color: white;
+    color:yellow;
+    border: solid 1px;
+    border-color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -11,5 +13,4 @@
     cursor: pointer;
   }
   
-  .button2 {background-color: #008CBA;} /* Blue */
-  .button3 {background-color: #f44336;} /* Red */ 
+  
